@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /about-us
+permalink: /about
 title: "About us"
 author_profile: false
 header:
