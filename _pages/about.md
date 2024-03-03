@@ -15,9 +15,9 @@ feature_row_1:
   - excerpt: 'Talking about problems and emotions is difficult. We create a therapeutic relationship where you can feel comfortable and safe to discuss anything. We have considerable expertise with a vast array of mental health conditions. Even if previous therapy or treatments haven not helped or you have complex symptoms, we are confident we can help you. If you are still feeling unsure, we can even arrange a short courtesy call with you to work out the best approach for you.'
 
 feature_row:
-  - image_path: images/home page character image 1.png
+  - image_path: images/rachel profile cropped.jpg
     alt: "customizable"
-    title: "Services"
+    title: "Dr Rachel Ashwick, Clinical Psychologist"
     excerpt: "We offer personalised talking therapies in London or online. Choose from a diverse range of therapy approaches with experienced clinical psychologists and therapists."
     url: "https://uktherapy.github.io/"
     btn_label: "Learn More"
