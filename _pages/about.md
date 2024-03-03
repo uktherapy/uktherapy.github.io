@@ -22,21 +22,6 @@ feature_row:
     url: "https://uktherapy.github.io/"
     btn_label: "Learn More"
     btn_class: "btn--info"
-  - image_path: images/home page character image 2.png
-    alt: "fully responsive"
-    title: "About us"
-    excerpt: "We have considerable expertise with a vast array of mental health conditions. Even if previous therapy or treatments haven’t helped or you have complex symptoms, we’re confident we can help you."
-    url: "https://uktherapy.github.io/"
-    btn_label: "Learn More"
-    btn_class: "btn--info"
-  - image_path: images/home page character image 3.png
-    alt: "100% free"
-    title: "Contact us"
-    excerpt: "We can arrange a brief courtesy call directly you can judge for yourself if you feel comfortable talking to them."
-    url: "https://uktherapy.github.io/"
-    btn_label: "Learn More"
-    btn_class: "btn--info"
-
 ---
  
 {% include feature_row id="feature_row_1" type="centre" %}
